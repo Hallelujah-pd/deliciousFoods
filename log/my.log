@@ -1,0 +1,22 @@
+2023-04-28 08:56:26.284  INFO 18392 --- [main] com.example.Application                  : Starting Application on LAPTOP-1MFUFJL5 with PID 18392 (started by 彭帝 in C:\Users\彭帝\Desktop\美食分享\deliciousFoods-main)
+2023-04-28 08:56:26.292  INFO 18392 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2023-04-28 08:56:26.944  WARN 18392 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2023-04-28 08:56:27.437  INFO 18392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-28 08:56:27.455  INFO 18392 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-28 08:56:27.456  INFO 18392 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2023-04-28 08:56:27.462  INFO 18392 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_271\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_271\bin;D:\mysql数据库\bin;;D;\Git\cmd;D:\MySQL\bin;E:\微信web开发者工具\dll;;D:\Gi;\cmd;D:\Git\cmd;C:\Users\彭帝\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\彭帝\AppData\Local\Programs\Python\Python36\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;%PyCharm%;C:\Users\彭帝\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;D:\QQGameTempest\Hall.57915\;.]
+2023-04-28 08:56:27.564  INFO 18392 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-28 08:56:27.564  INFO 18392 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1225 ms
+2023-04-28 08:56:27.584  INFO 18392 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2023-04-28 08:56:27.588  INFO 18392 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2023-04-28 08:56:27.589  INFO 18392 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2023-04-28 08:56:27.589  INFO 18392 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2023-04-28 08:56:27.589  INFO 18392 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2023-04-28 08:56:28.551  INFO 18392 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-04-28 08:56:28.800  INFO 18392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-28 08:56:28.803  INFO 18392 --- [main] com.example.Application                  : Started Application in 2.963 seconds (JVM running for 4.055)
+2023-04-28 08:56:57.023  INFO 18392 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-28 08:56:57.024  INFO 18392 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-28 08:56:57.031  INFO 18392 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2023-04-28 08:56:57.129  INFO 18392 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-28 08:56:57.271  INFO 18392 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
